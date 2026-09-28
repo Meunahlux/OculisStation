@@ -1139,7 +1139,7 @@
 		/datum/reagent/consumable/sugar = 4,
 	)
 	tastes = list("cookie" = 1, "butter" = 1)
-	foodtypes = DAIRY | GRAIN
+	foodtypes = DAIRY | GRAIN | SUGAR
 	w_class = WEIGHT_CLASS_SMALL
 	crafting_complexity = FOOD_COMPLEXITY_3
 
