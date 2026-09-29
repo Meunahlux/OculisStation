@@ -858,7 +858,7 @@
 		/datum/reagent/consumable/sugar = 5,
 	)
 	result = /obj/item/food/boh_loh_yah
-	added_foodtypes = GRAIN|DAIRY|SUGAR
+	added_foodtypes = DAIRY | GRAIN | SUGAR
 	cuisine_category = CUISINE_MARTIAN
 	dish_category = DISH_COOKIE
 	meal_category = MEAL_DESSERT
