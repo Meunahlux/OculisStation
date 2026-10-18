@@ -326,16 +326,16 @@
 /datum/config_entry/string/banappeals
 
 /datum/config_entry/string/wikiurl
-	default = "https://wiki.irisstation.lol/wiki" //IRIS EDIT: - Original: default = "https://wiki.novasector13.com/index.php"
+	default = "https://wiki.oculis.space/wiki/ //OCULIS EDIT: - Original: default = "https://wiki.irisstation.lol/wiki"
 
 /datum/config_entry/string/forumurl
 	default = "https://forum.irisstation.lol" //IRIS EDIT
 
 /datum/config_entry/string/rulesurl
-	default = "https://wiki.irisstation.lol/wiki/Rules" //IRIS EDIT
+	default = "https://wiki.oculis.space/wiki/Rules" //OCULIS EDIT
 
 /datum/config_entry/string/githuburl
-	default = "https://github.com/IrisSS13/IrisStation" //IRIS EDIT
+	default = "https://github.com/oculisstation/oculisstation" //OCULIS
 
 /datum/config_entry/string/configurl
 	default = "https://github.com/tgstation-operations/server-config"
