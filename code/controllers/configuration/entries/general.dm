@@ -326,7 +326,7 @@
 /datum/config_entry/string/banappeals
 
 /datum/config_entry/string/wikiurl
-	default = "https://wiki.oculis.space/wiki/ //OCULIS EDIT: - Original: default = "https://wiki.irisstation.lol/wiki"
+	default = "https://wiki.oculis.space/wiki" //OCULIS EDIT: - Original: default = "https://wiki.irisstation.lol/wiki"
 
 /datum/config_entry/string/forumurl
 	default = "https://forum.irisstation.lol" //IRIS EDIT
